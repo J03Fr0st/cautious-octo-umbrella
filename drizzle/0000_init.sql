@@ -1,0 +1,1 @@
+-- Initial migration: establishes the migration journal. No tables yet (S0 walking skeleton).
